@@ -35,7 +35,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: vanishing-stripes.svg
+          filename: bg-triangles.svg
           filters:
           brightness: 0.5
         #  style: "background-size: cover; background-position: center top;"
