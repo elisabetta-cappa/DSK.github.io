@@ -13,11 +13,11 @@ sections:
       title: DSK
       text:  Dystopian Schumpeter Meeting Keynes climate-economy agent-based model
       primary_action:
-        text: Get Started
+        text: Get Acces
         url: https://hugoblox.com/templates/
        # icon: rocket-launch
       secondary_action:
-        text: Read the docs
+        text: Publications
         url: https://docs.hugoblox.com
       # announcement:
       #   text: "Announcing the release of version 1."
@@ -27,7 +27,6 @@ sections:
     design:
       spacing:
         padding: [0, 0, 0, 0]
-       # padding: ["2rem", "0", "2rem", "0"]  # shrink vertical space
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
@@ -38,7 +37,6 @@ sections:
           filename: bg-triangles.svg
           filters:
           brightness: 0.5
-        #  style: "background-size: cover; background-position: center top;"
   - block: stats
     content:
       items:
