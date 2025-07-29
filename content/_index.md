@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: hero
@@ -27,7 +27,7 @@ sections:
     design:
       spacing:
        # padding: [0, 0, 0, 0]
-        padding: ["2rem", "0", "2rem", "0"]  # shrink vertical space
+        padding: ["4rem", "0", "4rem", "0"]  # shrink vertical space
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
