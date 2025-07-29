@@ -38,7 +38,7 @@ sections:
           filename: vanishing-stripes.svg
           filters:
           brightness: 0.5
-          style: "background-size: cover; background-position: center top;"
+        #  style: "background-size: cover; background-position: center top;"
   - block: stats
     content:
       items:
