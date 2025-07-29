@@ -28,7 +28,8 @@ sections:
     design:
       spacing:
        # padding: [0, 0, 0, 0]
-        padding: ["-2rem", "0", "-2rem", "0"]  # shrink vertical space
+        padding: ['20px', '0', '20px', '0']
+        #padding: ["-2rem", "0", "-2rem", "0"]  # shrink vertical space
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
@@ -39,7 +40,7 @@ sections:
           filename: sfondo_blu.png #png or svg
           filters:
            brightness: 1 #reintranza necessaria 
-          style: "background-size: cover; background-position: center top;"
+         # style: "background-size: cover; background-position: center top;"
   - block: stats
     content:
       items:
