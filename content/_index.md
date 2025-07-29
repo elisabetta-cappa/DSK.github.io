@@ -16,7 +16,7 @@ sections:
         text: Get Started
         url: https://hugoblox.com/templates/
        # icon: rocket-launch
-      primary_action:
+      secondary_action:
         text: Read the docs
         url: https://docs.hugoblox.com
       # announcement:
@@ -38,8 +38,6 @@ sections:
          filename: sfondo_blu.jpg
           filters:
             brightness: 0.5
-            style: "background-size: contain; background-repeat: no-repeat; background-position: center;"
-
   - block: stats
     content:
       items:
