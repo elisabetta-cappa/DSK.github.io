@@ -33,7 +33,7 @@ sections:
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
      # css_class: "dark"
-      css_class: "dark h-[100px]"  # limit height to 500px
+      css_class: "dark h-[200px]"  # limit height to 500px
       background:
         color: "navy"
         image:
