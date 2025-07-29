@@ -42,7 +42,7 @@ sections:
           filename: sfondo_blu.png #png or svg
           filters:
            brightness: 1 #reintranza necessaria 
-          style: "background-size: cover; background-position: center top;"
+          # style: "background-size: cover; background-position: center top;"
   - block: stats
     content:
       items:
