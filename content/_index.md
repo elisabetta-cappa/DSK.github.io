@@ -26,7 +26,8 @@ sections:
       #     url: "/blog/"
     design:
       spacing:
-        padding: [0, 0, 0, 0]
+       # padding: [0, 0, 0, 0]
+        padding: ["2rem", "0", "2rem", "0"]  # shrink vertical space
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
@@ -34,9 +35,10 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: sfondo_blu.svg
+          filename: vanishing-stripes.svg
           filters:
-            brightness: 0.5
+          brightness: 0.5
+          style: "background-size: cover; background-position: center top;"
   - block: stats
     content:
       items:
