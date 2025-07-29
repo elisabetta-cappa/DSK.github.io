@@ -34,7 +34,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: sfondo_blu.png
+          filename: sfondo_blu.png #png or svg
           filters:
            brightness: 0.5 #reintranza necessaria 
   - block: stats
