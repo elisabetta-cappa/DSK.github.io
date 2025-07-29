@@ -14,12 +14,13 @@ sections:
       text:  Dystopian Schumpeter Meeting Keynes climate-economy agent-based model
       title_style: "text-6xl font-bold md:text-8xl"  # Big title
       text_style: "text-6xl md:text-6xl"            # Big subtitle/text
-      primary_actions:
-      - text: Get Access
-        url: https://hugoblox.com/templates/
-          # icon: rocket-launch
-      - text: Publications
+      primary_actions: 
+       text: Get Access
+       url: https://hugoblox.com/templates/
+      secondary_action:
+        text: Publications
         url: https://docs.hugoblox.com
+          # icon: rocket-launch
       # announcement:
       #   text: "Announcing the release of version 1."
       #   link:
@@ -31,7 +32,8 @@ sections:
         padding: ['80px', '0', '80px', '0']
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark"
+     # css_class: "dark"
+      css_class: "dark h-[500px]"  # limit height to 500px
       background:
         color: "navy"
         image:
