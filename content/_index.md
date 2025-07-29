@@ -11,10 +11,11 @@ sections:
   - block: hero
     content:
       title: DSK
-      text:  Dystopian Schumpeter Meeting Keynes climate-economy agent-based model
+      subtitle: Dystopian Schumpeter Meeting Keynes climate-economy agent-based model
+      #text:  Dystopian Schumpeter Meeting Keynes climate-economy agent-based model
       title_style: "text-6xl font-bold md:text-7xl"  # Big title
       text_style: "text-4xl md:text-5xl"            # Big subtitle/text
-      primary_action:
+      primary_actions:
         - text: Get Access
           url: https://hugoblox.com/templates/
           # icon: rocket-launch
