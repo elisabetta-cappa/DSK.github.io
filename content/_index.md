@@ -36,7 +36,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: sfondo_blu.png #png or svg
           filters:
-           brightness: 0.5 #reintranza necessaria 
+           brightness: 1 #reintranza necessaria 
   - block: stats
     content:
       items:
