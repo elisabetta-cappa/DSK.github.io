@@ -13,7 +13,7 @@ sections:
       title: DSK
       text:  Dystopian Schumpeter Meeting Keynes climate-economy agent-based model
       primary_action:
-        text: Get Acces
+        text: Get Access
         url: https://hugoblox.com/templates/
        # icon: rocket-launch
       secondary_action:
@@ -36,7 +36,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: bg-triangles.svg
           filters:
-          brightness: 0.5
+           brightness: 0.5
   - block: stats
     content:
       items:
