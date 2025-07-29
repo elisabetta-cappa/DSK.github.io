@@ -11,19 +11,19 @@ sections:
   - block: hero
     content:
       title: DSK
-      text: 🧱 Dystopian Schumpeter Meeting Keynes  🧱
+      text:  Dystopian Schumpeter Meeting Keynes climate-economy agent-based model
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
-        icon: rocket-launch
-      secondary_action:
+       # icon: rocket-launch
+      primary_action:
         text: Read the docs
         url: https://docs.hugoblox.com
-      announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/blog/"
+      # announcement:
+      #   text: "Announcing the release of version 1."
+      #   link:
+      #     text: "Read more"
+      #     url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -34,9 +34,12 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+         # filename: bg-triangles.svg
+         filename: sfondo_blu.jpg
           filters:
             brightness: 0.5
+            style: "background-size: contain; background-repeat: no-repeat; background-position: center;"
+
   - block: stats
     content:
       items:
