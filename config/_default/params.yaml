@@ -53,3 +53,6 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+# Custom CSS
+custom_css:
+  - css/text_custom.css

@@ -1,0 +1,8 @@
+.custom-hero-text h1 {
+  font-size: 4rem;    /* Equivalent to text-6xl */
+  font-weight: 800;   /* Bold */
+}
+
+.custom-hero-text p {
+  font-size: 1.5rem;  /* Equivalent to text-2xl */
+}
