@@ -11,12 +11,10 @@ sections:
     content:
       title: DSK
       text:  Dystopian Schumpeter Meeting Keynes climate-economy agent-based model
-      # title_style: "text-6xl font-bold md:text-8xl"  # Big title
-      # text_style: "text-6xl md:text-6xl" 
-      button:
-        text: Get Access
-        url: https://hugoblox.com/templates/
-          # icon: rocket-launch
+      # button:
+      #   text: Get Access
+      #   url: https://hugoblox.com/templates/
+      #     # icon: rocket-launch
       button:
         text: Publications
         url: /publications/           # Big subtitle/text
