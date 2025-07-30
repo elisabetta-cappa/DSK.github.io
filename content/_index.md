@@ -7,7 +7,7 @@ design:
   # Default section spacing
   spacing: "1rem"
 sections:
-  - block: cta-image-paragraph
+  - block: cta-card
     content:
       title: DSK
       text:  Dystopian Schumpeter Meeting Keynes climate-economy agent-based model
