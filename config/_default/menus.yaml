@@ -7,7 +7,7 @@ main:
     url: /#top
     weight: 10
   - name: Features
-    url: /#features
+    url: /publications/  
     weight: 20
   - name: Solutions
     url: /#solutions
