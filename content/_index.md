@@ -7,7 +7,7 @@ design:
   # Default section spacing
   spacing: "1rem"
 sections:
-  - block: cta-card
+  - block: hero
     content:
       title: DSK
       text:  Dystopian Schumpeter Meeting Keynes climate-economy agent-based model
@@ -42,8 +42,8 @@ sections:
           filters:
            brightness: 1 #reintranza necessaria 
           # style: "background-size: cover; background-position: center top;"
-      card:
-        css_class: "bg-transparent shadow-none"
+      # card:
+      #   css_class: "bg-transparent shadow-none"
   - block: features
     content:
       items:
