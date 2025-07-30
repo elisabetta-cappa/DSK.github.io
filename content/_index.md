@@ -42,6 +42,8 @@ sections:
           filters:
            brightness: 1 #reintranza necessaria 
           # style: "background-size: cover; background-position: center top;"
+      card:
+        css_class: "bg-transparent shadow-none"
   - block: stats
     content:
       items:
