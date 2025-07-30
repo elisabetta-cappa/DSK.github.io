@@ -7,17 +7,17 @@ design:
   # Default section spacing
   spacing: "1rem"
 sections:
-  - block: hero
+  - block: cta-card
     content:
       title: DSK
       text:  Dystopian Schumpeter Meeting Keynes climate-economy agent-based model
       # title_style: "text-6xl font-bold md:text-8xl"  # Big title
       # text_style: "text-6xl md:text-6xl" 
-      primary_action:
+      button:
         text: Get Access
         url: https://hugoblox.com/templates/
           # icon: rocket-launch
-      secondary_action:
+      button:
         text: Publications
         url: /publications/           # Big subtitle/text
           # icon: rocket-launch
@@ -42,8 +42,8 @@ sections:
           filters:
            brightness: 1 #reintranza necessaria 
           # style: "background-size: cover; background-position: center top;"
-      # card:
-      #   css_class: "bg-transparent shadow-none"
+      card:
+        css_class: "bg-transparent shadow-none"
   - block: features
     content:
       items:
