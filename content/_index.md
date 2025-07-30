@@ -19,7 +19,7 @@ sections:
         icon: #rocket-launch
       secondary_action:
         text: Publications
-        url: https://docs.hugoblox.com           # Big subtitle/text
+        url: /publications/           # Big subtitle/text
           # icon: rocket-launch
       # announcement:
       #   text: "Announcing the release of version 1."
@@ -47,12 +47,12 @@ sections:
   - block: features
     content:
       items:
-        - name: "1M+"
-          description: "Websites built with Hugo Blox"
-        - name: "10k+"
-          description: "GitHub stars since 2016"
-        - name: "3k+"
-          description: "Discord community for support"
+        - name: "The Model"
+          description: "The DSK model is an agent based integrated assessment model for climate impacts and the study of a wide range of climate fiscal and monetary policies. The model belongs to the “Schumpeter meeting Keynes” family of models developed at the Institute of Economics of the Scuola Superiore Sant’Anna (Pisa, Italy)."
+        - name: "ABM-IAM"
+          description:  " The model allows studying the intricate relationship between climate physical and transition risks as well as their macroeconomic effects."
+        - name: "Open Source"
+          description: "The model is open-source and can be freely used and modified. The source code can be browsed and downloaded from our Github repository. "
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
