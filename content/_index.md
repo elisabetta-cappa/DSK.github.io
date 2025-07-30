@@ -44,21 +44,15 @@ sections:
           # style: "background-size: cover; background-position: center top;"
       card:
         css_class: "bg-transparent shadow-none"
-  - block: stats
+  - block: features
     content:
       items:
-        - statistic: "1M+"
-          description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
+        - name: "1M+"
+          description: "Websites built with Hugo Blox"
+        - name: "10k+"
+          description: "GitHub stars since 2016"
+        - name: "3k+"
+          description: "Discord community for support"
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
